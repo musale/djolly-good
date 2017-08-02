@@ -4,6 +4,7 @@ import {setUsername, setPassword} from '../actions'
 import Heading from '../components/Heading';
 import LoginContainer from '../components/Login';
 import '../styles/index.css';
+import {login} from '../util/Auth'
 
 class App extends Component {
   constructor(props) {
