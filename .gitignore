@@ -6,6 +6,7 @@ __pycache__/
 # dependencies
 node_modules/
 package-lock.json
+*.sqlite3
 
 # testing
 /coverage
