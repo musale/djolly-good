@@ -7,7 +7,7 @@ Django==1.11.4
 django-annoying==0.10.3
 djangorestframework==3.6.3
 idna==2.5
-Jinja2==2.9.6
+Jinja2==2.11.3
 kombu==4.1.0
 MarkupSafe==1.0
 PyConfigure==0.5.9
