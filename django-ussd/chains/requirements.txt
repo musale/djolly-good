@@ -13,7 +13,7 @@ MarkupSafe==1.0
 PyConfigure==0.5.9
 PyStaticConfiguration==0.10.3
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.3
 six==1.10.0
 structlog==17.2.0
