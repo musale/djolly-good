@@ -1,6 +1,6 @@
 Django==2.2.24
 django-dotenv==1.4.1
 django-filter==1.0.4
-djangorestframework==3.6.3
+djangorestframework==3.11.2
 psycopg2==2.7.3
 pytz==2017.2
